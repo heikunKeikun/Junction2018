@@ -1,8 +1,8 @@
 # 
 <h1 align='center'> Wintermute's Junction2018 project </h1> <br />
 
-This project (**EasyCharge9000**) was made for the Mobility track challange by [Entso](https://2018.hackjunction.com/challenges/teach-ev-chargers-new-tricks).
-EasyCharge9000 was developed on React Native, using the API provided by Entso, in addition to extra Firebase database created by us for demonstrational purpourses.<br /><br />
+This project (**EasyCharge9000**) was made for the Mobility track challenge by [Ensto](https://2018.hackjunction.com/challenges/teach-ev-chargers-new-tricks).
+EasyCharge9000 was developed on React Native, using the API provided by Ensto, in addition to an extra Firebase database created by us for demonstrational purposes.<br /><br />
 
 ## Demo: Home screen & Value screen
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://gyazo.com/636ffbd5ef157774ca40bfad76a5b8ce"><img src="https://i.gyazo.com/636ffbd5ef157774ca40bfad76a5b8ce.png" alt="Image from Gyazo" width="238"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
